@@ -1,1 +1,1 @@
-# javascriptresume
+# resumeusingjs
